@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Alice Johnson",
+        "birthday": "2024-12-05",
+        "favorite_treat": "Chocolate Cake",
+        "gift_preference": "Presents"
+    },
+    {
+        "name": "Bob Smith",
+        "birthday": "2024-11-20",
+        "favorite_treat": "Ice Cream",
+        "gift_preference": "Cash"
+    },
+    {
+        "name": "Carol Williams",
+        "birthday": "2024-03-15",
+        "favorite_treat": "Strawberry Shortcake",
+        "gift_preference": "Presents"
+    },
+    {
+        "name": "David Brown",
+        "birthday": "2024-07-22",
+        "favorite_treat": "Apple Pie",
+        "gift_preference": "Cash"
+    },
+    {
+        "name": "Emily Davis",
+        "birthday": "2024-01-09",
+        "favorite_treat": "Cupcakes",
+        "gift_preference": "Presents"
+    }
+]
